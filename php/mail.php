@@ -54,6 +54,14 @@ if (isset($_POST['name'])) {
 $mail = new PHPMailer(true);
 
 /* Add your SMTP Codes after this Line */
+$mail->isSMTP();
+$mail->SMTPDebug = 0;
+$mail->Host = 'mail.davidmalevsky.com';
+$mail->SMTPAuth = true;
+$mail->Username = 'David@davidmalevsky.com';
+$mail->Password = 'secret';
+$mail->SMTPSecure = 'tls';
+$mail->Port = 587;
 
 
 // End of SMTP
