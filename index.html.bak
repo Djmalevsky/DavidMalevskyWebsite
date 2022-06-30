@@ -492,7 +492,24 @@
           </div>
           <div class="col-md-8 col-xl-9 order-0 order-md-1">
             <h2 class="mb-3 text-5 text-uppercase text-center text-md-start">Send us a note</h2>
-			<form id="contact-form" action="php/Contact.php" method="post">
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/mbjweewb"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+			<form   action="https://formspree.io/f/mbjweewb"
+  method="POST">
               
 			  <div class="row g-4">
                 <div class="col-xl-6">
