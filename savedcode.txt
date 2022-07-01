@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="images/favicon.png" rel="icon" />
 <title>David Malevsky</title>
-<meta name="description" content="David Malevsky is a web designer">
+<meta name="description" content="Simone is responsive bootstrap 5 one page personal portfolio html template.">
 <meta name="author" content="harnishdesign.net">
 
 <!-- Web Fonts -->
@@ -52,7 +52,7 @@
         <!-- Logo --> 
         <a href="index.html" class="mb-lg-auto mt-lg-4">
 			<span class="bg-dark-2 rounded-pill p-2 mb-lg-1 d-none d-lg-inline-block">
-				<img class="img-fluid rounded-pill d-block" src="images/profile.jpg" title="I'm David" alt="">
+				<img class="img-fluid rounded-pill d-block" src="images/profile.jpg" title="I'm Simone" alt="">
 			</span>
 			<h1 class="text-5 text-white text-center mb-0 d-lg-block">David Malevsky</h1>
         </a> 
@@ -492,9 +492,7 @@
           </div>
           <div class="col-md-8 col-xl-9 order-0 order-md-1">
             <h2 class="mb-3 text-5 text-uppercase text-center text-md-start">Send us a note</h2>
-<!-- modify this form HTML and place wherever you want your form -->
-			<form   action="https://formspree.io/f/mbjweewb"
-  method="POST">
+			<form id="contact-form" action="php/mail.php" method="post">
               
 			  <div class="row g-4">
                 <div class="col-xl-6">
