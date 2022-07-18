@@ -444,7 +444,7 @@
           <div class="item">
             <div class="bg-light rounded p-5">
               <div class="d-flex align-items-center mt-auto mb-4"> <img class="img-fluid rounded-circle border d-inline-block w-auto" src="images/testimonial/client-sm-2.jpg" alt="">
-                <p class="ms-3 mb-0"><strong class="d-block text-dark fw-600">Abdorahman matrane</strong> <span class="text-muted fw-500">Client from Kansas City, Missour</span></p>
+                <p class="ms-3 mb-0"><strong class="d-block text-dark fw-600">Abdorahman matrane</strong> <span class="text-muted fw-500">Client from Kansas City, Missouri</span></p>
               </div>
               <p class="text-dark fw-500 mb-4">“I had a good time working with David and his team, he delivered high quality work to me and my business and on time.”</p>
               <span class="text-2"> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> </span> </div>
