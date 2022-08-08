@@ -71,7 +71,7 @@
         </div>
         <ul class="social-icons social-icons-muted social-icons-sm mt-lg-auto ms-auto ms-lg-0 d-flex">
           <li class="social-icons-facebook"><a data-bs-toggle="tooltip" title="Facebook" href="http://www.facebook.com/davidmalevsky/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-          <li class="social-icons-twitter"><a data-bs-toggle="tooltip" title="Twitter" href="http://www.twitter.com/davidmalevsky/" target="_blank"><i class="fab fa-twitter"></i></a></li>
+          <li class="social-icons-twitter"><a data-bs-toggle="tooltip" title="Twitter" href="https://twitter.com/BigmoneyWeb3" target="_blank"><i class="fab fa-twitter"></i></a></li>
           <li class="social-icons-instagram"><a data-bs-toggle="tooltip" title="Instagram" data-bs-placement="top" href="http://www.instagram.com/davidmalevsky/" target="_blank"><i class="fab fa-instagram"></i></a></li>
           <li class="social-icons-linkedin"><a data-bs-toggle="tooltip" title="Linkedin" data-bs-placement="top" href="https://www.linkedin.com/in/david-malevsky-69143518a/" target="_blank" ><i class="fab fa-linkedin"></i></a></li>
         </ul>
