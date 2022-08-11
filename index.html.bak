@@ -374,7 +374,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-6 col-lg-4 Photos">
+         <!--   <div class="col-sm-6 col-lg-4 Photos">
               <div class="portfolio-box rounded">
                 <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/PuertoRico.jpg" alt="">
                   <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-5.html"></a>
@@ -384,7 +384,7 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div>-->
          <!--   <div class="col-sm-6 col-lg-4 brand">
               <div class="portfolio-box rounded">
                 <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/project-6.jpg" alt="">
