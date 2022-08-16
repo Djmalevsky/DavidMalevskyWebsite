@@ -1,23 +1,23 @@
 <div class="container ajax-container">
-  <h2 class="text-6 font-weight-600 text-center mb-4">Lost In Futility</h2>
+  <h2 class="text-6 font-weight-600 text-center mb-4">RLS II CONSULTING</h2>
   <div class="row g-4">
     <div class="col-sm-7">
       <div class="owl-carousel owl-theme single-slideshow" data-autoplay="true" data-loop="true" data-nav="true" data-items="1">
-        <div class="item"> <img class="img-fluid" alt="" src="images/projects/LostInFutilityGame.png"> </div>
-        <div class="item"> <img class="img-fluid" alt="" src="images/projects/LostInFutilityGame2.png"> </div>
-        <div class="item"> <img class="img-fluid" alt="" src="images/projects/project-1.jpg"> </div>
+        <div class="item"> <img class="img-fluid" alt="" src="images/projects/FrontPage.png"> </div>
+        <div class="item"> <img class="img-fluid" alt="" src="images/projects/Do.png"> </div>
+        <div class="item"> <img class="img-fluid" alt="" src="images/projects/MissionVision.png"> </div>
       </div>
     </div>
     <div class="col-sm-5">
       <h4 class="text-4 font-weight-600">Project Info:</h4>
-      <p>A game I made for fun! It's an app you can shoot zombies and aliens with and it's super cool!</p>
+      <p>This was a website I built for my university of Florida professor!</p>
       <h4 class="text-4 font-weight-600 mt-4">Project Details:</h4>
       <ul class="list-style-2">
-        <li><span class="text-dark font-weight-600 me-2">Client:</span>David Malevsky</li>
-        <li><span class="text-dark font-weight-600 me-2">Industry:</span>Videogames</li>
-        <li><span class="text-dark font-weight-600 me-2">Technologies:</span>Android, Godot</li>
-        <li><span class="text-dark font-weight-600 me-2">Date:</span>Jan 7, 2021</li>
-        <li><span class="text-dark font-weight-600 me-2">URL:</span><a href="https://play.google.com/store/apps/details?id=org.godotengine.lostinfutility" target="_blank">Lost In Futility</a></li>
+        <li><span class="text-dark font-weight-600 me-2">Client:</span>Rik Stevenson</li>
+        <li><span class="text-dark font-weight-600 me-2">Industry:</span>Consulting</li>
+        <li><span class="text-dark font-weight-600 me-2">Technologies:</span>HTML, CSS, JAVASCRIPT, PHP</li>
+        <li><span class="text-dark font-weight-600 me-2">Date:</span>Aug 15, 2022</li>
+        <li><span class="text-dark font-weight-600 me-2">URL:</span><a href="https://www.rls2consulting.com/index.html" target="_blank">Website link</a></li>
       </ul>
       <div class="row no-gutters align-items-center">
         <div class="col-auto text-dark font-weight-600">Share: </div>
