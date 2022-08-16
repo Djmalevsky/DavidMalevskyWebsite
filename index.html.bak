@@ -438,7 +438,7 @@
         <div class="owl-carousel owl-theme" data-loop="true" data-nav="false" data-autoplay="false" data-margin="25" data-stagepadding="0" data-slideby="1" data-items-xs="1" data-items-sm="1" data-items-md="1" data-items-lg="2">
 		  <div class="item">
             <div class="bg-light rounded p-5">
-              <div class="d-flex align-items-center mt-auto mb-4"> <img class="img-fluid rounded-circle border d-inline-block w-auto" src="images/testimonial/client-sm-2.jpg" alt="">
+              <div class="d-flex align-items-center mt-auto mb-4"> <img class="img-fluid rounded-circle border d-inline-block w-auto" src="images/testimonial/ProPhoto.jpg" alt="">
                 <p class="ms-3 mb-0"><strong class="d-block text-dark fw-600">Rik Stevenson</strong> <span class="text-muted fw-500">Client from Ocala, Florida</span></p>
               </div>
               <p class="text-dark fw-500 mb-4">“This is fantastic, you've out done yourself.  I am presently out of town conducting a training and I look forward to launching the site.  Please give my regards to your partner.  I really appreciate the work.”</p>
