@@ -370,7 +370,7 @@
             <div class="col-sm-6 col-lg-4 Games">
               <div class="portfolio-box rounded">
                 <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/LostInFutilityGame.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-3.html"></a>
+                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="#"></a>
                     <div class="portfolio-overlay-details">
                       <h5 class="text-white fw-400">Lost In Futility</h5>
                       <span class="text-light">App Game</span> </div>
