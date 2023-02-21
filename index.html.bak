@@ -367,7 +367,7 @@
                 </div>
               </div>
             </div>
-			<div class="col-sm-6 col-lg-4 Websites" style="position: absolute; left: 270px; top: 145.625px;">
+			<div class="col-sm-6 col-lg-4 Websites">
               <div class="portfolio-box rounded">
                 <a href="http://nervegenius.com/" target="_blank">
                   <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/neuropathy.png" alt="">
