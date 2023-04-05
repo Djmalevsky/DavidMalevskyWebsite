@@ -116,22 +116,21 @@
     
     <!-- About
     ============================================= -->
-    <section id="about" class="section">
+    <section id="about" class="section bg-dark">
       <div class="container px-lg-5"> 
         <!-- Heading -->
         <div class="position-relative d-flex text-center mb-5">
           <h2 class="text-24 text-light opacity-4 text-uppercase fw-600 w-100 mb-0">About Me</h2>
-          <p class="text-9 text-dark fw-600 position-absolute w-100 align-self-center lh-base mb-0">About Me<span class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </p>
+          <p class="text-9 text-light fw-600 position-absolute w-100 align-self-center lh-base mb-0">What I do<span class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </p>
         </div>
         <!-- Heading end-->
         
         <div class="row gy-5">
           <div class="col-lg-7 col-xl-8 text-center text-lg-start">
-            <h2 class="text-7 fw-600 mb-3">I'm <span class="text-primary">David Malevsky,</span> a highly skilled web developer dedicated to creating top-notch digital solutions that drive results for your business.</h2>
-            <p>From boosting conversions to attracting high-paying clients, 
-			my work is tailored to your unique needs and goals. 
-			With a strong focus on both excellence and efficiency, </p>
-            <p> you can trust that your project will be completed on time and to the highest standards.</p>
+            <h2 class="text-white fw-600 mb-3">I'm <span class="text-primary">David Malevsky,</span> I'm David Malevsky, a proficient web developer committed to crafting exceptional digital solutions that generate results for your business.</h2>
+            <p > I specialize in optimizing conversions and attracting high-paying clients by tailoring my work to your unique needs and objectives.
+With a steadfast emphasis on quality and efficiency, you can trust that your project will be completed on time and to the highest standards.</p>
+            <p >As an expert in my field, I'm ready to help bring your online vision to life and drive success for your business.</p>
           </div>
           <div class="col-lg-5 col-xl-4">
             <div class="ps-lg-4">
@@ -141,7 +140,7 @@
                 <li class=""><span class="fw-600 me-2">Age:</span>21</li>
                 <li class="border-0"><span class="fw-600 me-2">From:</span>San Antonio, Texas</li>
               </ul>
-              <a href="Images/MyResume.pdf" class="btn btn-primary rounded-pill">Download CV</a> </div>
+              <a href="Resume/DavidMalevskyResume.pdf" class="btn btn-primary rounded-pill" download="DavidMalevskyResume.pdf">Download CV</a>
           </div>
         </div>
         <div class="brands-grid separator-border mt-5">
@@ -172,60 +171,76 @@
     
     <!-- Services
     ============================================= -->
-    <section id="services" class="section bg-light">
+    <section id="services" class="section bg-dark">
       <div class="container px-lg-5"> 
         <!-- Heading -->
         <div class="position-relative d-flex text-center mb-5">
-          <h2 class="text-24 text-light opacity-4 text-uppercase fw-600 w-100 mb-0">Services</h2>
-          <p class="text-9 text-dark fw-600 position-absolute w-100 align-self-center lh-base mb-0">What do I do?<span class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </p>
+          <h2 class="text-24 text-light opacity-4 text-uppercase fw-600 w-100 mb-0">My Skils</h2>
+          <p class="text-9 text-light fw-600 position-absolute w-100 align-self-center lh-base mb-0">Services<span class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </p>
         </div>
         <!-- Heading end-->
         
         <div class="row">
           <div class="col-lg-11 mx-auto">
             <div class="row">
-              <div class="col-md-6">
+                          <div class="col-md-6">
                 <div class="featured-box style-3 mb-5">
-                  <div class="featured-box-icon text-primary bg-white shadow-sm rounded"> <i class="fas fa-box"></i> </div>
-                  <h3>Web3</h3>
-                  <p class="mb-0">Unlock the power of Web3 for your business with my expertise in Solidity. From smart contract development to blockchain integration, I'll help you stay ahead of the curve in this rapidly evolving field.</p>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="featured-box style-3 mb-5">
-                  <div class="featured-box-icon text-primary bg-white shadow-sm rounded"> <i class="fas fa-desktop"></i></div>
+                  <div class="featured-box-icon text-primary bg-black shadow-sm rounded"> <i class="fas fa-desktop"></i></div>
                   <h3>Web Design</h3>
-                  <p class="mb-0">Make your online presence felt with my clean, effective and results-driven web design services. Whether you want to increase conversions, build brand awareness or drive sales, my websites are built to deliver.</p>
+                  <p class="mb-0">Elevate your online presence with my clean, effective, and results-driven web design services. Whether your goal is to increase conversions, build brand awareness, or drive sales, my websites are designed to deliver outstanding results.</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="featured-box style-3 mb-5">
-                  <div class="featured-box-icon text-primary bg-white shadow-sm rounded"> <i class="fas fa-pencil-ruler"></i> </div>
-                  <h3>UI/UX Design</h3>
-                  <p class="mb-0">I specialize in crafting intuitive and user-friendly interfaces for your website or app. With my keen eye for detail and focus on user satisfaction, I'll create an experience that keeps your clients coming back for more.</p>
+                  <div class="featured-box-icon text-primary bg-black shadow-sm rounded"> <i class="fas fa-box"></i> </div>
+                  <h3>Web3</h3>
+                  <p class="mb-0">Harness the power of Web3 for your business with my expertise in Solidity. From smart contract development to blockchain integration, I'll help you stay ahead of the curve in this rapidly evolving field.</p>
                 </div>
               </div>
-              <!--<div class="col-md-6">
+              <div class="col-md-6">
                 <div class="featured-box style-3 mb-5">
-                  <div class="featured-box-icon text-primary bg-white shadow-sm rounded"> <i class="fas fa-paint-brush"></i> </div>
-                  <h3>App Design &amp; Develop</h3>
-                  <p class="mb-0">Create the best apps in react JS</p>
+                  <div class="featured-box-icon text-primary bg-black shadow-sm rounded"> <i class="fas fa-pencil-ruler"></i> </div>
+                  <h3>UI/UX Design</h3>
+                  <p class="mb-0">I specialize in crafting intuitive and user-friendly interfaces for your website or app. With a keen eye for detail and focus on user satisfaction, I create engaging experiences that keep your clients coming back for more.</p>
                 </div>
-              </div>-->
-             <!-- <div class="col-md-6">
-                <div class="featured-box style-3 mb-5 mb-md-0">
-                  <div class="featured-box-icon text-primary bg-white shadow-sm rounded"> <i class="fas fa-chart-area"></i> </div>
-                  <h3>Business Analysis</h3>
-                  <p class="mb-0">I am the greatest entrepeneur of all time</p>
-                </div>
-              </div> -->
+              </div>
               <div class="col-md-6">
                 <div class="featured-box style-3 mb-0">
-                  <div class="featured-box-icon text-primary bg-white shadow-sm rounded"> <i class="fas fa-bullhorn"></i> </div>
+                  <div class="featured-box-icon text-primary bg-black shadow-sm rounded"> <i class="fas fa-bullhorn"></i> </div>
                   <h3>SEO Marketing</h3>
-                  <p class="mb-0">Rise to the top of search engine rankings with my SEO marketing services. From keyword research to on-page optimization, I'll help you boost your online visibility and drive more traffic to your website."</p>
+                  <p class="mb-0">Ascend the search engine rankings with my comprehensive SEO marketing services. From keyword research to on-page optimization, I'll help you boost your online visibility and drive more traffic to your website.</p>
                 </div>
               </div>
+            </div>
+          </div>
+        </div>
+        <div class="row gx-5">
+          <div class="col-md-6">
+            <p class="text-light fw-500 text-start mb-2">Web Design <span class="float-end">95%</span></p>
+            <div class="progress progress-sm mb-4">
+              <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+            <p class="text-light fw-500 text-start mb-2">HTML/CSS <span class="float-end">95%</span></p>
+            <div class="progress progress-sm mb-4">
+              <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+            <p class="text-light fw-500 text-start mb-2">Solidity <span class="float-end">95%</span></p>
+            <div class="progress progress-sm mb-4">
+              <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <p class="text-light fw-500 text-start mb-2">SEO <span class="float-end">70%</span></p>
+            <div class="progress progress-sm mb-4">
+              <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+            <p class="text-light fw-500 text-start mb-2">UX/UI <span class="float-end">90%</span></p>
+            <div class="progress progress-sm mb-4">
+              <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+            <p class="text-light fw-500 text-start mb-2">Unity/Godot <span class="float-end">99%</span></p>
+            <div class="progress progress-sm mb-4">
+              <div class="progress-bar" role="progressbar" style="width: 99%" aria-valuenow="99" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
         </div>
@@ -235,29 +250,29 @@
     
     <!-- Resume
     ============================================= -->
-    <section id="resume" class="section">
+    <section id="resume" class="section bg-dark">
       <div class="container px-lg-5"> 
         <!-- Heading -->
         <div class="position-relative d-flex text-center mb-5">
           <h2 class="text-24 text-light opacity-4 text-uppercase fw-600 w-100 mb-0">Summary</h2>
-          <p class="text-9 text-dark fw-600 position-absolute w-100 align-self-center lh-base mb-0">Resume<span class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </p>
+          <p class="text-9 text-light fw-600 position-absolute w-100 align-self-center lh-base mb-0">Resume<span class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </p>
         </div>
         <!-- Heading end-->
         
         <div class="row gx-5"> 
           <!-- My Education -->
           <div class="col-md-6">
-            <h2 class="text-6 fw-600 mb-4">My Education</h2>
-            <div class="bg-white border rounded p-4 mb-4">
+            <h2 class="text-6 fw-600 mb-4 text-white">My Education</h2>
+            <div class="bg-dark border rounded p-4 mb-4">
               <p class="badge bg-primary text-2 fw-400">2019 - 2023</p>
-              <h3 class="text-5">Computer Science College of Engineering</h3>
-              <p class="text-danger">University of Florida</p>
+              <h3 class="text-5 text-light">Computer Science College of Engineering</h3>
+              <p class="text-primary">University of Florida</p>
               <p class="mb-0">I have a computer science undergraduate degree from the univeristy of Florida.</p>
             </div>
-            <div class="bg-white border rounded p-4 mb-4">
+            <div class="bg-dark border rounded p-4 mb-4">
               <p class="badge bg-primary text-2 fw-400">2022 - 2022</p>
-              <h3 class="text-5">Blockchain Developer Certified</h3>
-              <p class="text-danger">Blockchain Council</p>
+              <h3 class="text-5 text-light">Blockchain Developer Certified</h3>
+              <p class="text-primary">Blockchain Council</p>
               <p class="mb-0">Learned everything from solidity, web3, to hyperledger and R3 Corda</p>
             </div>
 
@@ -265,60 +280,34 @@
           
           <!-- My Experience -->
           <div class="col-md-6">
-            <h2 class="text-6 fw-600 mb-4">My Experience</h2>
-            <div class="bg-white border rounded p-4 mb-4">
+            <h2 class="text-6 fw-600 mb-4 text-white">My Experience</h2>
+            <div class="bg-dark border rounded p-4 mb-4">
               <p class="badge bg-primary text-2 fw-400">2021 - 2021</p>
-              <h3 class="text-5">X-Force Internship</h3>
-              <p class="text-danger">Governemnt Contract</p>
+              <h3 class="text-5 text-light">X-Force Internship</h3>
+              <p class="text-primary">Governemnt Contract</p>
               <p class="mb-0">Developed an experimental command and control station for a multi-participant testbed developing human-autonomy teaming measures for the next generation combat vehicle to integrate various software, run scenarios and key events and injects and collect required measures.</p>
             </div>
           </div>
         </div>
         <!-- My Skills -->
-		<h2 class="text-6 fw-600 mt-4 mb-4">My Skills</h2>
-        <div class="row gx-5">
-          <div class="col-md-6">
-            <p class="text-dark fw-500 text-start mb-2">Web Design <span class="float-end">95%</span></p>
-            <div class="progress progress-sm mb-4">
-              <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+
+            <div class="text-center mt-5">
+                <a href="Resume/DavidMalevskyResume.pdf" class="btn btn-outline-secondary rounded-pill shadow-none" download="DavidMalevskyResume.pdf">
+                    Download CV <span class="ms-1"><i class="fas fa-download"></i></span>
+                </a>
             </div>
-            <p class="text-dark fw-500 text-start mb-2">HTML/CSS <span class="float-end">95%</span></p>
-            <div class="progress progress-sm mb-4">
-              <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-            <p class="text-dark fw-500 text-start mb-2">Solidity <span class="float-end">95%</span></p>
-            <div class="progress progress-sm mb-4">
-              <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <p class="text-dark fw-500 text-start mb-2">SEO <span class="float-end">70%</span></p>
-            <div class="progress progress-sm mb-4">
-              <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-            <p class="text-dark fw-500 text-start mb-2">UX/UI <span class="float-end">60%</span></p>
-            <div class="progress progress-sm mb-4">
-              <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-            <p class="text-dark fw-500 text-start mb-2">Unity/Godot <span class="float-end">99%</span></p>
-            <div class="progress progress-sm mb-4">
-              <div class="progress-bar" role="progressbar" style="width: 99%" aria-valuenow="99" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-          </div>
-        </div>
-        <div class="text-center mt-5"><a href="Images/MyResume.pdf" class="btn btn-outline-secondary rounded-pill shadow-none">Download CV <span class="ms-1"><i class="fas fa-download"></i></span></a></div>
       </div>
     </section>
     <!-- Resume end --> 
     
     <!-- Portfolio
     ============================================= -->
-     <section id="portfolio" class="section bg-light">
+     <section id="portfolio" class="section bg-dark">
       <div class="container px-lg-5">
         <!-- Heading -->
         <div class="position-relative d-flex text-center mb-5">
           <h2 class="text-24 text-light opacity-4 text-uppercase fw-600 w-100 mb-0">Portfolio</h2>
-          <p class="text-9 text-dark fw-600 position-absolute w-100 align-self-center lh-base mb-0">My Work<span class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </p>
+          <p class="text-9 text-light fw-600 position-absolute w-100 align-self-center lh-base mb-0">My Work<span class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </p>
         </div>
         <!-- Heading end--> 
         
@@ -333,18 +322,20 @@
           <div class="row portfolio-filter g-4">
             <div class="col-sm-6 col-lg-4 Websites">
               <div class="portfolio-box rounded">
-                <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/PressureWashingImage1.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-2.html"></a>
+              <a href="http://everythingpt.com/" target="_blank">
+                <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/EverythingptImage.png" alt="">
+                  <div class="portfolio-overlay">
                     <div class="portfolio-overlay-details">
-                      <h5 class="text-white fw-400">Pressure Washing website</h5>
+                      <h5 class="text-white fw-400">Medical Professional website</h5>
                       <span class="text-light">Websites</span> </div>
                   </div>
                 </div>
+                </a>
               </div>
             </div>
 			<div class="col-sm-6 col-lg-4 Websites" style="position: absolute; left: 270px; top: 145.625px;">
               <div class="portfolio-box rounded">
-                <a href="http://www.mycareercompass.net" target="_blank">
+                <a href="http://mystsa.net/" target="_blank">
                   <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/thomas_sports.png" alt="">
                     <div class="portfolio-overlay">                     
                       <div class="portfolio-overlay-details">
@@ -358,20 +349,21 @@
             </div>
 			<div class="col-sm-6 col-lg-4 Websites">
               <div class="portfolio-box rounded">
+              <a href="https://www.rls2consulting.com/" target="_blank">
                 <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/FrontPage.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="ajax/portfolio-ajax-project-3.html"></a>
+                  <div class="portfolio-overlay"> 
                     <div class="portfolio-overlay-details">
                       <h5 class="text-white fw-400">Consulting Website</h5>
                       <span class="text-light">Websites</span> </div>
                   </div>
                 </div>
+                </a>
               </div>
             </div>
-
             <div class="col-sm-6 col-lg-4 Games">
               <div class="portfolio-box rounded">
                 <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/LostInFutilityGame.png" alt="">
-                  <div class="portfolio-overlay"> <a class="popup-ajax stretched-link" href="#"></a>
+                  <div class="portfolio-overlay">
                     <div class="portfolio-overlay-details">
                       <h5 class="text-white fw-400">Lost In Futility</h5>
                       <span class="text-light">App Game</span> </div>
@@ -379,10 +371,10 @@
                 </div>
               </div>
             </div>
-			  <div class="col-sm-6 col-lg-4 Websites" style="position: absolute; left: 270px; top: 145.625px;">
+			  <div class="col-sm-6 col-lg-4 Games" style="position: absolute; left: 270px; top: 145.625px;">
               <div class="portfolio-box rounded">
                 <a href="https://isaiahh116.itch.io/retro-pixel-arcade" target="_blank">
-                  <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/RetroArc.png" alt="RetroArc">
+                  <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/RetroArc.png" alt="">
                     <div class="portfolio-overlay">                     
                       <div class="portfolio-overlay-details">
                         <h5 class="text-white fw-400">Retro Pixel Arcade</h5>
@@ -393,7 +385,7 @@
                 </a>
               </div>
             </div>
-						<div class="col-sm-6 col-lg-4 Websites">
+            <div class="col-sm-6 col-lg-4 Websites">
               <div class="portfolio-box rounded">
                 <a href="http://nervegenius.com/" target="_blank">
                   <div class="portfolio-img rounded"> <img class="img-fluid d-block" src="images/projects/Neuropathy.png" alt="Neuropathy">
@@ -415,46 +407,46 @@
     
     <!-- Testimonial
     ============================================= -->
-    <section id="testimonial" class="section">
+    <section id="testimonial" class="section bg-dark">
       <div class="container px-lg-5">
         <!-- Heading -->
         <div class="position-relative d-flex text-center mb-5">
           <h2 class="text-24 text-light opacity-4 text-uppercase fw-600 w-100 mb-0">Testimonial</h2>
-          <p class="text-9 text-dark fw-600 position-absolute w-100 align-self-center lh-base mb-0">Clients Speak<span class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </p>
+          <p class="text-9 text-light fw-600 position-absolute w-100 align-self-center lh-base mb-0">Clients Speak<span class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </p>
         </div>
         <!-- Heading end-->
         
-        <div class="owl-carousel owl-theme" data-loop="true" data-nav="false" data-autoplay="false" data-margin="25" data-stagepadding="0" data-slideby="1" data-items-xs="1" data-items-sm="1" data-items-md="1" data-items-lg="2">
+        <div class="owl-carousel owl-theme owl-light owl-loaded owl-drag" data-loop="true" data-nav="false" data-autoplay="false" data-margin="25" data-stagepadding="0" data-slideby="1" data-items-xs="1" data-items-sm="1" data-items-md="1" data-items-lg="2">
 		  <div class="item">
-            <div class="bg-light rounded p-5">
+            <div class="bg-dark-1 rounded p-5">
               <div class="d-flex align-items-center mt-auto mb-4"> <img class="img-fluid rounded-circle border d-inline-block w-auto" src="images/testimonial/ProPhoto.jpg" alt="">
-                <p class="ms-3 mb-0"><strong class="d-block text-dark fw-600">Rik Stevenson</strong> <span class="text-muted fw-500">Client from Ocala, Florida</span></p>
+                <p class="ms-3 mb-0"><strong class="d-block text-light fw-600">Rik Stevenson</strong> <span class="text-muted fw-500">Client from Ocala, Florida</span></p>
               </div>
-              <p class="text-dark fw-500 mb-4">“This is fantastic, you've out done yourself.  I am presently out of town conducting a training and I look forward to launching the site.  Please give my regards to your partner.  I really appreciate the work.”</p>
+              <p class="text-light fw-500 mb-4">“This is fantastic, you've out done yourself.  I am presently out of town conducting a training and I look forward to launching the site.  Please give my regards to your partner.  I really appreciate the work.”</p>
               <span class="text-2"> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> </span> </div>
           </div>
           <div class="item">
-            <div class="bg-light rounded p-5">
+            <div class="bg-dark-1 rounded p-5">
               <div class="d-flex align-items-center mt-auto mb-4"> <img class="img-fluid rounded-circle border d-inline-block w-auto" src="images/testimonial/client-sm-3.jpg" alt="">
-                <p class="ms-3 mb-0"><strong class="d-block text-dark fw-600">Tiktin</strong> <span class="text-muted fw-500">Client from Denver, Colorado</span></p>
+                <p class="ms-3 mb-0"><strong class="d-block text-light fw-600">Tiktin</strong> <span class="text-muted fw-500">Client from Denver, Colorado</span></p>
               </div>
-              <p class="text-dark fw-500 mb-4">“Delivered on time, got exactly what I asked for and the graphics were clean.”</p>
+              <p class="text-light fw-500 mb-4">“Delivered on time, got exactly what I asked for and the graphics were clean.”</p>
               <span class="text-2"> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> </span> </div>
           </div>
           <div class="item">
-            <div class="bg-light rounded p-5">
+            <div class="bg-dark-1 rounded p-5">
               <div class="d-flex align-items-center mt-auto mb-4"> <img class="img-fluid rounded-circle border d-inline-block w-auto" src="images/testimonial/client-sm-1.jpg" alt="">
-                <p class="ms-3 mb-0"><strong class="d-block text-dark fw-600">Omar Alhajazi</strong> <span class="text-muted fw-500">Client from Kansas City, Missouri</span></p>
+                <p class="ms-3 mb-0"><strong class="d-block text-light fw-600">Omar Alhajazi</strong> <span class="text-muted fw-500">Client from Kansas City, Missouri</span></p>
               </div>
-              <p class="text-dark fw-500 mb-4">"Fantastic service, delievered faster than I expected with a higher quality than I expected.”</p>
+              <p class="text-light fw-500 mb-4">"Fantastic service, delievered faster than I expected with a higher quality than I expected.”</p>
               <span class="text-2"> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> </span> </div>
           </div>
           <div class="item">
-            <div class="bg-light rounded p-5">
+            <div class="bg-dark-1 rounded p-5">
               <div class="d-flex align-items-center mt-auto mb-4"> <img class="img-fluid rounded-circle border d-inline-block w-auto" src="images/testimonial/client-sm-2.jpg" alt="">
-                <p class="ms-3 mb-0"><strong class="d-block text-dark fw-600">Abdorahman matrane</strong> <span class="text-muted fw-500">Client from Kansas City, Missouri</span></p>
+                <p class="ms-3 mb-0"><strong class="d-block text-light fw-600">Abdorahman matrane</strong> <span class="text-muted fw-500">Client from Kansas City, Missouri</span></p>
               </div>
-              <p class="text-dark fw-500 mb-4">“I had a good time working with David and his team, he delivered high quality work to me and my business and on time.”</p>
+              <p class="text-light fw-500 mb-4">“I had a good time working with David and his team, he delivered high quality work to me and my business and on time.”</p>
               <span class="text-2"> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> </span> </div>
           </div>
         </div>
@@ -464,12 +456,12 @@
     
     <!-- Contact Me
     ============================================= -->
-    <section id="contact" class="section bg-light">
+    <section id="contact" class="section bg-dark">
       <div class="container px-lg-5">
         <!-- Heading -->
         <div class="position-relative d-flex text-center mb-5">
           <h2 class="text-24 text-light opacity-4 text-uppercase fw-600 w-100 mb-0">Contact</h2>
-          <p class="text-9 text-dark fw-600 position-absolute w-100 align-self-center lh-base mb-0">Get in Touch<span class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </p>
+          <p class="text-9 text-light fw-600 position-absolute w-100 align-self-center lh-base mb-0">Get in Touch<span class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </p>
         </div>
         <!-- Heading end-->
         <div class="row gy-5">
@@ -491,20 +483,20 @@
             </ul>
           </div>
           <div class="col-md-8 col-xl-9 order-0 order-md-1">
-            <h2 class="mb-3 text-5 text-uppercase text-center text-md-start">Send us a note</h2>
+            <h2 class="mb-3 text-5 text-uppercase text-center text-md-start text-light">Send me a note</h2>
 <!-- modify this form HTML and place wherever you want your form -->
 			<form   action="https://formspree.io/f/mbjweewb"
   method="POST">
               
 			  <div class="row g-4">
                 <div class="col-xl-6">
-                    <input name="name" type="text" class="form-control" required placeholder="Name">
+                    <input name="name" type="text" class="form-control bg-dark text-light" required placeholder="Name">
                 </div>
                 <div class="col-xl-6">
-                    <input name="email" type="email" class="form-control" required placeholder="Email">
+                    <input name="email" type="email" class="form-control bg-dark text-light" required placeholder="Email">
                 </div>
 				<div class="col">
-					<textarea name="form-message" class="form-control" rows="5" required placeholder="Tell us more about your needs........"></textarea>
+					<textarea name="form-message" class="form-control bg-dark text-light" rows="5" required placeholder="Tell us more about your needs........"></textarea>
 				</div>
               </div>
 			  
@@ -523,11 +515,11 @@
   
   <!-- Footer
   ============================================= -->
-  <footer id="footer" class="section">
+  <footer id="footer" class="section bg-dark">
     <div class="container px-lg-5">
       <div class="row">
         <div class="col-lg-6 text-center text-lg-start">
-          <p class="mb-3 mb-lg-0">Copyright © 2022 <a href="#" class="fw-500">David Malevsky</a>. All Rights Reserved.</p>
+          <p class="mb-3 mb-lg-0 text-white">Copyright © 2022 <a href="#" class="fw-500">David Malevsky</a>. All Rights Reserved.</p>
         </div>
         <div class="col-lg-6">
           <ul class="nav nav-separator justify-content-center justify-content-lg-end">
