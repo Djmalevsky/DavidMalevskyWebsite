@@ -1750,7 +1750,35 @@ hr {
   padding-left: 50px;
   padding-top: 8px;
 }
+/* Improving box style */
+.featured-box.style-3 {
+    border-radius: 8px; /* rounding off the edges for a softer look */
+    transition: transform 0.3s, box-shadow 0.3s; /* transition effect */
+    padding: 20px;
+    margin-bottom: 20px; /* space between boxes */
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1); /* subtle shadow for depth */
+}
 
+.featured-box.style-3:hover {
+    transform: translateY(-5px); /* slight lift on hover for interactivity */
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+}
+/* Increasing spacing for better readability */
+.featured-box h3, .featured-box h4 {
+    margin-bottom: 20px; 
+    color: white;
+}
+
+/* Enhancing the icons */
+.featured-box.style-3 .featured-box-icon {
+    transition: background 0.3s, transform 0.3s; /* smooth transition effect */
+    font-size: 40px; /* slightly larger icons */
+}
+
+.featured-box.style-3 .featured-box-icon:hover {
+    background: #333; /* change as per your branding */
+    transform: scale(1.1); /* slightly grow the icon for interactivity */
+}
 .featured-box.style-1 .featured-box-icon, .featured-box.style-2 .featured-box-icon, .featured-box.style-3 .featured-box-icon {
   position: absolute;
   top: 0;
@@ -1831,6 +1859,13 @@ hr {
   margin-bottom: 0px;
 }
 
+.featured-box p {
+    color: #7a7a7a; /* dark gray for better readability */
+    font-size: 16px; /* slight increase, adjust as necessary */
+    font-weight: 400; /* normal weight, adjust if needed */
+    line-height: 1.6; /* giving more space between lines */
+    margin-bottom: 20px; /* providing some breathing room below paragraphs */
+}
 .featured-box.style-5 .featured-box-icon {
   font-size: 50px;
   margin: 44px 0px;
@@ -3599,4 +3634,11 @@ input:-internal-autofill-selected {
   right: auto;
   left: -40px;
   border-radius: 4px 0px 0px 4px;
+}
+.mb-0{{
+    color: #7a7a7a; /* dark gray for better readability */
+    font-size: 16px; /* slight increase, adjust as necessary */
+    font-weight: 400; /* normal weight, adjust if needed */
+    line-height: 1.6; /* giving more space between lines */
+    margin-bottom: 20px; /* providing some breathing room below paragraphs */
 }
