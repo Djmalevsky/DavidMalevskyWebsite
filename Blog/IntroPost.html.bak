@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>From High School Hobbies to Web Design Professional: My Coding Journey</title>
+    
+    <!-- External Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="../vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../vendor/font-awesome/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="../vendor/owl.carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="../vendor/magnific-popup/magnific-popup.min.css">
+
+    <!-- Custom Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="../css/stylesheet.css">
+    
+    <!-- Additional Styles, Fonts, and Meta Tags Below -->
+</head>
+
+<body class="header" data-bs-spy="scroll" data-bs-target="#header-nav" data-bs-offset="1">
+
+    <header id="header" class="sticky-top">
+        <!-- Navbar -->
+            <nav aria-label="breadcrumb" class="bg-dark navbar-text-light">
+              <div class="container-fluid position-relative h-100 flex-lg-column ps-3 px-lg-3 pt-lg-3 pb-lg-2">
+                <ol class="breadcrumb bg-dark text-light my-lg-auto">
+                  <li class="breadcrumb-item"><a href="#home" class="text-light">Home</a></li>
+                  <li class="breadcrumb-item"><a href="#featured-posts" class="text-light">Featured Posts</a></li>
+                  <li class="breadcrumb-item active" aria-current="page">The Journey of a Web Developer: From Passion to Profession</li>
+                </ol>
+              </div>
+            </nav>
+        <!-- Navbar End -->
+    </header>
+
+        <article>
+        
+            <!-- Blog Section -->
+            <section id="blog" class="section bg-dark">
+
+
+                      <h1 class="text-10 text-white text-center mb-4">The Journey of a Web Developer: From Passion to Profession</h1>
+                      <div class="container px-lg-5">
+                        <div class="row">
+                            <div class="col-md-6 mx-auto text-center"> 
+                                <a href="#">
+                                    <img src="../images/ComputerProgrammer.jpeg" alt="Intro Blog Post" class="img-fluid">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                <div class="container px-lg-5">
+
+                    <!-- Blog Posts -->
+                    <div class="row">
+                        <!-- Blog Post: From High School Hobbies to Web Design Professional -->
+                        <div class="col-md-12 mb-5"> <!-- Using full width for this detailed post -->
+                            <div class="blog-post">
+
+                                <section id="introduction" class="py-5">
+                                    <div class="position-relative d-flex text-center mb-5">
+                                      <h2 class="text-9 text-light fw-600 position-absolute w-100 align-self-center lh-base mb-0">Introduction<span class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </h2>
+                                    </div>
+                                    <p>Hello, world! I'm David Malevsky, a web developer based in the sunny Hallandale Beach, Florida. Today, I wanted to share a bit of my journey with you, from my early days in San Antonio, Texas, to where I am today.</p>
+                                </section>
+                                <section id="body" class="bg-light py-5 px-4 rounded shadow-lg">
+                                    <div class="position-relative d-flex text-center mb-5">
+                                      <h2 class="text-9 text-light fw-600 position-absolute w-100 align-self-center lh-base mb-0">The Humble Beginnings<span class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </h2>
+                                    </div>
+                                    <p>In my first year of high school, the vast digital world beckoned me. Crafting simple HTML webpages started as a side hobby. I was a neophyte, navigating the basics, but it was enough to ignite the spark. My curiosity took another turn when I delved into game programming, experimenting with SFML and C++. The thrill of watching my codes take life on the screen was unparalleled. That year, I designed a simple top-down shooter game. It was rudimentary, yet it was mine, and it was a start.</p>
+
+                                    <h2 class="text-secondary mt-4">The World of 3D Gaming</h2>
+                                    <p>As I delved deeper into the world of gaming, Unity caught my eye. The dream of building 3D games was too alluring to resist. And thus began my journey with Unity, recreating my shooter game "Lost in Futility", followed by the class-based multiplayer game "Polygon Wizards", which I proudly published on Steam.</p>
+
+                                    <h2 class="text-secondary mt-4">A Valuable Lesson in Marketing</h2>
+                                    <p>These game-building experiences were enlightening. They made me realize a crucial aspect of the software world – it's not just about building; it's about selling. To sell a game, one needs more than just an exciting storyline or challenging levels. The user interface, graphics, and understanding market needs are paramount. It's where I understood the essence of marketing in the tech realm. A software or game, no matter how functional, needs an attractive UI and graphics to be a sellable product.</p>
+
+                                    <h2 class="text-secondary mt-4">The Return to Web Design</h2>
+                                    <p>With the newfound appreciation for UI and UX, I gravitated back towards web design. I wanted to hone my skills, focus on aesthetics and usability, and see my work used daily. Initially, friends approached me for website designs. Word spread, and soon, I found myself juggling multiple projects, with individuals and businesses willing to pay generously for my work. From simple requests to selling professional websites and landing pages for over $2k, my journey in web design had truly taken off.</p>
+                                </section>
+                                <section class="py-5">
+                                    <h2 class="text-primary">Conclusion</h2>
+                                    <p>From simple HTML pages in high school to professional web designing today, my coding journey has been a whirlwind of learning, challenges, and growth. It's a testament to how following one's passion and continuously adapting can lead to unexpected and fulfilling paths. And as I look ahead, I'm excited about the endless possibilities the future holds.</p>
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </article>
+
+
+    <aside>
+        <!-- Sidebar with related links, popular posts, tags, etc. can go here -->
+    </aside>
+
+    <footer>
+        <!-- Overall site footer content, copyright info, social media links, etc. -->
+    </footer>
+
+</body>
+
+</html>
