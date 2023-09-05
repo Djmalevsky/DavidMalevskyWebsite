@@ -1,0 +1,78 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+
+
+
+.video-container {
+    position: relative;
+    width: 100%;
+    margin-bottom: 30px;
+    overflow: hidden;
+    background-color: black; /* optional, for better visibility */
+        height: 400px;  /* You can adjust this as needed */
+    padding-bottom: 0; /* Remove the padding-bottom */
+}
+
+.video-container video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: none;
+        height: auto; /* instead of 100% */
+
+}
+.video-container img.video-thumbnail {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* This will make sure the image covers the area without distortion */
+    display: block;    /* Remove any default margins or spacing */
+}
+
+.video-thumbnail {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.play-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2em; 
+    color: white;
+    z-index: 1;
+    cursor: pointer;
+        display: inline-block;  /* Ensure that the play button can be faded in/out */
+
+}
+
+.video-thumbnail:hover .play-button {
+    color: #ccc; /* slightly lighter color on hover */
+}
+/* Video Section Enhancements */
+.container h2 {
+    font-weight: bold;
+    color: #333; /* Dark grayish text for header */
+}
+
+.video-container {
+    border: 1px solid #e0e0e0;  /* Light border around video containers */
+    border-radius: 5px;  /* Slight rounding of corners */
+    transition: box-shadow 0.3s;  /* Smooth transition for hover effects */
+    margin-bottom: 20px;  /* Spacing between video containers */
+}
+
+.video-container:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);  /* Subtle shadow on hover */
+}
+
+/* You can also optionally add shadow to play button to make it stand out more */
+.play-button {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
