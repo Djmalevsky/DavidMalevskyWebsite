@@ -533,7 +533,7 @@ rates and a 5x boost in client acquisition. Leveraged effective SEO strategies a
         </div>
         <!-- Heading end-->
         
-        <div class="owl-carousel owl-theme owl-light owl-loaded owl-drag" data-loop="true" data-nav="false" data-autoplay="false" data-margin="25" data-stagepadding="0" data-slideby="1" data-items-xs="1" data-items-sm="1" data-items-md="1" data-items-lg="2">
+        <div class="owl-carousel owl-theme owl-light owl-loaded owl-drag" data-loop="true" data-nav="false" data-autoplay="false" data-margin="25" data-stagepadding="0" data-slideby="1" data-items-xs="1" data-items-sm="1" data-items-md="1" data-items-lg="3">
 		  <div class="item">
             <div class="bg-dark-1 rounded p-5">
               <div class="d-flex align-items-center mt-auto mb-4"> <img class="img-fluid rounded-circle border d-inline-block w-auto" src="images/testimonial/ProPhoto.jpg" alt="">
@@ -542,6 +542,42 @@ rates and a 5x boost in client acquisition. Leveraged effective SEO strategies a
               <p class="text-light fw-500 mb-4">“This is fantastic, you've out done yourself.  I am presently out of town conducting a training and I look forward to launching the site.  Please give my regards to your partner.  I really appreciate the work.”</p>
               <span class="text-2"> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> </span> </div>
           </div>
+            <!-- Dr. Steven Kreh's Testimonial -->
+              <div class="item">
+                <div class="bg-dark-1 rounded p-5">
+                  <div class="d-flex align-items-center mt-auto mb-4"> 
+                    <img class="img-fluid rounded-circle border d-inline-block w-auto" src="images/testimonial/client-sm-8.jpg" alt="">
+                    <p class="ms-3 mb-0"><strong class="d-block text-light fw-600">Dr. Steven Kreh</strong> <span class="text-muted fw-500">Founder, PinpointsPT</span></p>
+                  </div>
+                  <p class="text-light fw-500 mb-4">"Their responsiveness and expertise in web development made a significant impact. They assisted me in building a physical therapy website capable of storing thousands of profiles."</p>
+                  <span class="text-2"> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> </span>
+                </div>
+              </div>
+              
+              <!-- Dr. Eric Rosenfield's Testimonial -->
+              <div class="item">
+                <div class="bg-dark-1 rounded p-5">
+                  <div class="d-flex align-items-center mt-auto mb-4"> 
+                    <img class="img-fluid rounded-circle border d-inline-block w-auto" src="images/testimonial/client-sm-7.jpg" alt="">
+                    <p class="ms-3 mb-0"><strong class="d-block text-light fw-600">Dr. Eric Rosenfield</strong> <span class="text-muted fw-500">PT, DPT</span></p>
+                  </div>
+                  <p class="text-light fw-500 mb-4">"The transformation since working with them has been remarkable. From mere word of mouth to acquiring clients online with insightful data analytics, they've truly revolutionized my approach."</p>
+                  <span class="text-2"> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> </span>
+                </div>
+              </div>
+              
+              <!-- Dr. Sanethia Thomas's Testimonial -->
+              <div class="item">
+                <div class="bg-dark-1 rounded p-5">
+                  <div class="d-flex align-items-center mt-auto mb-4"> 
+                    <img class="img-fluid rounded-circle border d-inline-block w-auto" src="images/testimonial/senanthia-image.jpg" alt="">
+                    <p class="ms-3 mb-0"><strong class="d-block text-light fw-600">Dr. Sanethia Thomas</strong> <span class="text-muted fw-500">Second Shot</span></p>
+                  </div>
+                  <p class="text-light fw-500 mb-4">"Their dedication to my success has been evident in every interaction. Not just looking for a quick transaction, they've provided consistent and positive experiences that propelled my business forward."</p>
+                  <span class="text-2"> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> </span>
+                </div>
+              </div>
+
           <div class="item">
             <div class="bg-dark-1 rounded p-5">
               <div class="d-flex align-items-center mt-auto mb-4"> <img class="img-fluid rounded-circle border d-inline-block w-auto" src="images/testimonial/client-sm-5.jpg" alt="">
@@ -552,7 +588,7 @@ rates and a 5x boost in client acquisition. Leveraged effective SEO strategies a
           </div>
           <div class="item">
             <div class="bg-dark-1 rounded p-5">
-              <div class="d-flex align-items-center mt-auto mb-4"> <img class="img-fluid rounded-circle border d-inline-block w-auto" src="images/testimonial/client-sm-3.jpg" alt="">
+              <div class="d-flex align-items-center mt-auto mb-4"> <img class="img-fluid rounded-circle border d-inline-block w-auto" src="images/testimonial/client-sm-6.jpg" alt="">
                 <p class="ms-3 mb-0"><strong class="d-block text-light fw-600">Sam Tiktin</strong> <span class="text-muted fw-500">Client from Denver, Colorado</span></p>
               </div>
               <p class="text-light fw-500 mb-4">“Delivered on time, got exactly what I asked for and the graphics were clean.”</p>
@@ -574,7 +610,6 @@ rates and a 5x boost in client acquisition. Leveraged effective SEO strategies a
               <p class="text-light fw-500 mb-4">“I had a good time working with David and his team, he delivered high quality work to me and my business and on time.”</p>
               <span class="text-2"> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> <i class="fas fa-star text-warning"></i> </span> </div>
           </div>
-
         </div>
       </div>
       <!-- Videos Section -->
@@ -595,6 +630,7 @@ rates and a 5x boost in client acquisition. Leveraged effective SEO strategies a
             <p class="mb-0" style="color: grey">"What stands out about this team is their <b>genuine commitment to my success</b>. It isn't just about business for them; it's about forging partnerships that thrive. Their support and expertise have been instrumental in elevating 'Second Shot' to new heights."</p>
             <b>Dr. Sanethia Thomas</b>
             <p class="mb-0" style="color: grey">Founder, Second Shot</p> 
+            <br />
         </div>
 
         <div class="col-lg-6 text-center">
@@ -610,6 +646,7 @@ rates and a 5x boost in client acquisition. Leveraged effective SEO strategies a
             <p class="mb-0" style="color: grey">"Before embracing a digital strategy, I relied heavily on traditional word-of-mouth referrals. But after partnering with you, everything changed. Not only did I experience <b>seamless communication and instant support</b>, but I also witnessed a <b>significant surge in online client engagements</b>. The ability to <b>effectively convert online visitors into loyal clients</b>, combined with the insights from invaluable data analytics, has truly revolutionized my practice."</p> <!-- Video Description -->
             <b>Dr. Eric Rosenfield, PT, DPT</b>
             <p class="mb-0" style="color: grey">Founder, Everything Physical Therapy</p> 
+            <br />
         </div>
     </div> <!-- Close the row -->
     <div class="row"> <!-- Start another row for the next set of videos -->
@@ -640,6 +677,7 @@ rates and a 5x boost in client acquisition. Leveraged effective SEO strategies a
                 <p class="mb-0" style="color: grey">"Navigating the intricate realm of cultural consulting, especially in the spheres of African American and Black Atlantic thought, requires an online platform that truly resonates. Thanks to this team, we got just that. The expertise and dedication they poured into the website ensured it was reflective of the depth and breadth of my work at the University of Florida. Their work prompted me to say, 'This is fantastic; you've outdone yourself.' Even while out of town for a training, the excitement of launching the site was palpable. A huge thanks to the entire team for their exceptional work."</p>
                 <b>Dr. Rik Stevenson</b>
                 <p class="mb-0" style="color: grey">RLS II Consulting & University of Florida</p> 
+                <br />
             </div>
         <!-- When you add your fourth video, it should go in another 'col-lg-6' div here. -->
     </div> <!-- Close the row -->
