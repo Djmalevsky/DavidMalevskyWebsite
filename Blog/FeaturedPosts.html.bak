@@ -65,7 +65,7 @@
             <div class="featured-post-content">
                 <h2>My Journey into Web Design</h2>
                 <p>Discover how I ventured into the world of web design and the challenges I overcame to become a professional designer...</p>
-                <a href="IntroPost.html" class="btn btn-primary">Read More</a>
+                <a href="IntroPost.html" class="btn btn-primary">Read More <i class="fas fa-arrow-right"></i></a>
             </div>
         </div>
 
