@@ -328,7 +328,7 @@
               <p class="badge bg-primary text-2 fw-400">2019 - 2023</p>
               <h3 class="text-5 text-light">Computer Science College of Engineering</h3>
               <p class="text-primary">University of Florida</p>
-              <p class="mb-0"style="color: gray">I have a computer science undergraduate degree from the Univeristy of Florida.</p>
+              <p class="mb-0"style="color: gray">I have a computer science undergraduate degree from the University of Florida.</p>
             </div>
             <div class="bg-dark border rounded p-4 mb-4">
               <p class="badge bg-primary text-2 fw-400">2023 - 2023</p>
@@ -508,7 +508,7 @@ rates and a 5x boost in client acquisition. Leveraged effective SEO strategies a
       <!-- Example Blog Post -->
       <div class="col-md-4">
         <div class="blog-post">
-          <a href="#">
+          <a href="Blog/IntroPost.html">
             <img src="images/ComputerProgrammer.jpeg" alt="Intro Blog Post" class="img-fluid">
           </a>
           <h4><a href="Blog/IntroPost.html">The Journey of a Web Developer: From Passion to Profession</a></h4>
